@@ -1,0 +1,21 @@
+.header_styling {
+    display: flex;
+
+}
+
+.header_styling h1 {
+    justify-content: center;
+}
+
+/* label */
+.toggleswitch {
+    margin-left: auto;
+}
+
+/* input checkbox */
+.input_toggle {}
+
+/* div for toggle */
+.toggleswitch__base {}
+
+.toggleswitch__toggle {}
