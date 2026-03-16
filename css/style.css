@@ -6,3 +6,8 @@
 }
 
 .main-dom {}
+
+ul {
+    display: flex;
+
+}
